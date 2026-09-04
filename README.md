@@ -1,5 +1,9 @@
 # zero2hero 学习笔记 · 静态网站
 
+在线：https://king157419.github.io/zero2hero-site/
+
+![站点首页](docs/site-home.png)
+
 用 [Quartz 5](https://quartz.jzhao.xyz) 把 `D:\Claude_Notes` 里的 Obsidian 笔记发布成静态网页。
 
 ## 它是怎么工作的
